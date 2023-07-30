@@ -11,7 +11,7 @@ body {
 }
 
 header {
-    width: 75vw;
+    width: 80vw;
     max-width: 900x;
     display: flex;
     justify-content: flex-end;
